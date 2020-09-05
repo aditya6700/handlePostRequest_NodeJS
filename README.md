@@ -1,4 +1,4 @@
 # handlePostRequest_NodeJS
 
-## run the following command  
+1. Run the following command in current directory 
 ` nodemon index.js ` or ` node index.js `
